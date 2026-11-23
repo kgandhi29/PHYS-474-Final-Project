@@ -19,6 +19,6 @@ The notebook includes data cleaning and fitting using unweighted, weighted, and 
 
 `phys474_finalproject.ipynb` contains the main analysis. Update the catalogue file path before running the notebook.
 
-## Reference
+## Main Reference Paper
 
 Bulbul, E., et al. (2024), *The SRG/eROSITA All-Sky Survey: The first catalog of galaxy clusters and groups in the western Galactic hemisphere*.
